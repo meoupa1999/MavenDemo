@@ -6,6 +6,10 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <properties>
+<sonar.projectKey>meoupa1999_MavenDemo</sonar.projectKey>
+  <sonar.organization>meoupa1999</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>5934dab36a56e1bbf4203e6effbfa8268bcfad8f</sonar.login>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>12</maven.compiler.source>
         <maven.compiler.target>12</maven.compiler.target>
